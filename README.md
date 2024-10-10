@@ -52,7 +52,7 @@ Tech Stack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" alt=" Next Js logo" />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  height="30" alt=" Figma logo" />
-   <img width="12" />/>
+   <img width="12" />
   
 </div>
 
