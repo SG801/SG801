@@ -10,7 +10,7 @@ I'm a curious teacher with a love for all things tech. I believe learning never 
 - 🔭 I’m currently working on|A personal project using data visualization to track daily flight prices over a week. Combining Python, SQL, and JS to provide insightful, interactive charts.
   
   
-- 🌱 I’m currently learning Python, SQL, JavaScript, and earning a UX certification to enhance my full-stack development skills.
+- 🌱 I’m currently learning Python, SQL, JavaScript, Behance and earning a UX certification to enhance my full-stack development skills.
   
   
 - 👯 I’m looking to collaborate on anything creative and techy! I’d love to team up on educational tools, interactive web apps, or data projects.
@@ -47,6 +47,12 @@ Tech Stack
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" alt=" Next Js logo" />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  height="30" alt=" Figma logo" />
+   <img width="12" />/>
   
 </div>
 
